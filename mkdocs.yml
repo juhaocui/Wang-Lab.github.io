@@ -1,18 +1,18 @@
 # site information
 site_name: 智能传感系统与机器人实验室 # 左上角标题
 site_url: https://juhaocui.github.io/
-site_auther: JuhaoCui
+site_author: JuhaoCui
 site_description: Welcome to our lab!
 
 # navigation
 nav:
-  -home:
-    -test: test.md
-    -test2: test2.md
+  - home:
+    - test: test.md
+    - test2: test2.md
     # -Automated Assembly Line: Automated Line.md
-  -team:
-    -test3: test3.md
-    -test4: test4.md
+  - team:
+    - test3: test3.md
+    - test4: test4.md
   
 # theme
 theme:
