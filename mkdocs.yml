@@ -22,6 +22,8 @@ theme:
   #logo: logo.png
   font:
    text: Playfair Display
+  features:
+    - navigation.tabs # 使用Tab来进行分类
 
 # copyright
 copyright: JuhaoCui
