@@ -1,0 +1,20 @@
+# site information
+site_name: junhaocui
+site_url: https://juhaocui.github.io/
+site_description: hello
+
+# navigation
+-nv:
+  # -Rotating Elves: Rotating Elves.md
+  # -Hand Exoskeleton: Hand Exoskeleton.md
+  # -Automated Assembly Line: Automated Line.md
+  
+# theme
+theme:
+  name: material
+  #logo: logo.png
+  font:
+   text: Playfair Display
+
+# copyright
+copyright: junhaocui
