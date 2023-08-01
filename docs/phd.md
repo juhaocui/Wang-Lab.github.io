@@ -1,4 +1,4 @@
-# Ph.D Student
+# Ph.D Students
 - - -
 ## 刘骕骐 Suqi Liu
 
