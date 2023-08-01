@@ -41,6 +41,8 @@ theme:
     - content.code.copy # 可以通过按钮复制代码
     - content.action.edit # 点击按钮跳转到编辑页面  需要结合 edit_uri 一起使用
   language: zh # 一些提示性的文字会变成中文
+  icon:
+    repo: fontawesome/brands/github
 
 # copyright
 copyright: JuhaoCui
