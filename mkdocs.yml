@@ -7,12 +7,12 @@ site_description: Welcome to our lab!
 # navigation
 nav:
   - home:
-    - ce:
+    - CE:
       - test: test.md
       - test2: test2.md
     # -Automated Assembly Line: Automated Line.md
   - team:
-    - cf:
+    - CG:
       - test3: test3.md
       - test4: test4.md
       
