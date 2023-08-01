@@ -13,7 +13,7 @@ nav:
     # -Automated Assembly Line: Automated Line.md
   - Team:
     - Member:
-      - Director: test3.md
+      - Director: director.md
       - Ph.D Students: phd.md
       
 theme:
