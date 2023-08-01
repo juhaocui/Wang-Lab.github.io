@@ -15,6 +15,7 @@ nav:
     - Member:
       - Director: director.md
       - Ph.D Students: phd.md
+      - Master Students: master.md
       
 theme:
   name: material
