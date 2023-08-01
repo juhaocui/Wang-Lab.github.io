@@ -6,7 +6,7 @@ site_description: hello
 # navigation
 -nv:
   -test: test.md
-  # -Hand Exoskeleton: Hand Exoskeleton.md
+  -test2: test2.md
   # -Automated Assembly Line: Automated Line.md
   
 # theme
