@@ -19,7 +19,7 @@ nav:
   - Research:
   - News:
   - Publication:
-  = Join us:
+  - Join us:
       
 theme:
   name: material
