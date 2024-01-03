@@ -10,8 +10,6 @@ nav:
     - CE:
       - test: test.md
       - test2: test2.md
-    # -Automated Assembly Line: Automated Line.md
-  
   - Members:
     - Director: director.md
     - Ph.D Students: phd.md
