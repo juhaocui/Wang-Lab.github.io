@@ -7,9 +7,7 @@ site_description: Welcome to our lab!
 # navigation
 nav:
   - Home:
-    - CE:
-      - test: test.md
-      - test2: test2.md
+    - test: test.md
   - Members:
     - Director: director.md
     - Ph.D Students: phd.md
