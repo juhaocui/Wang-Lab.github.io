@@ -14,12 +14,14 @@ nav:
     - Director: director.md
     - Ph.D Students: phd.md
     - Master Students: master.md
-  - Publications:
-  - Research:
-  - Projects:
-  - News & Blog:
-  - Join us:
-  - other:
+  - Publications: pub.md
+  - Research: research.md
+  - Projects: proj.md
+  - News & Blog: news.md
+  - Join us: us.md
+  - other: 
+    - Equipment: equip.md
+    - Gallery: picture.md
       
 theme:
   name: material
