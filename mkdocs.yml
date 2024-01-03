@@ -11,15 +11,17 @@ nav:
       - test: test.md
       - test2: test2.md
     # -Automated Assembly Line: Automated Line.md
-  - Team:
-    - Members:
-      - Director: director.md
-      - Ph.D Students: phd.md
-      - Master Students: master.md
+  
+  - Members:
+    - Director: director.md
+    - Ph.D Students: phd.md
+    - Master Students: master.md
+  - Publications:
   - Research:
-  - News:
-  - Publication:
+  - Projects:
+  - News & Blog:
   - Join us:
+  - other:
       
 theme:
   name: material
