@@ -2,12 +2,13 @@
 - - -
 ## 王恒   Heng Wang
 
-<div class="result" markdown>
-
 ![照片](王导.jpg)
 
-
 <img align="left" src="王导.jpg" alt="图片描述" />
+- 职称：副教授
+
+- 工作单位：吴贤铭智能工程学院
+  
 - 毕业院校：明尼苏达大学，机械工程系
   
 - 最后学位：工学博士
