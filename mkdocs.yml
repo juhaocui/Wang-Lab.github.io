@@ -48,5 +48,10 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
+# Extensions
+markdown_extensions:
+  - abbr
+  - md_in_html
+
 # copyright
 copyright: JuhaoCui
