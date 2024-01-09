@@ -4,7 +4,7 @@
 
 ![](王导.jpg)
 
-<img align="left" src="王导.jpg" alt="图片" width=255 height=340 />
+<img align="left" src="王导.jpg" alt="图片" />
 
  - 职称：副教授
 
