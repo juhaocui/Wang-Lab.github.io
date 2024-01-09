@@ -4,7 +4,7 @@
 
 ![照片](王导.jpg)
 
-<img align="left" src="王导.jpg" alt="图片描述" width=180 height=320 />
+<img align="left" src="王导.jpg" alt="图片描述" width=240 height=320 />
 
 - 职称：副教授
 
