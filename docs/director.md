@@ -4,9 +4,9 @@
 
 <div class="result" markdown>
 
-![照片](王导.jpg){#img-id}
+![照片](王导.jpg)
 
-<div align="center">
+<div align="right">
     <img src="王导.jpg" alt="图片描述" height="200" width="200">
 </div>剩下的文本内容...
 
