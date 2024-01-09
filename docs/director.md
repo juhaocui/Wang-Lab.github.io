@@ -2,6 +2,8 @@
 - - -
 ## 王恒   Heng Wang
 
+![]("王导.jpg")
+
 <img align="left" src="王导.jpg" alt="图片" width=255 height=340 />
 
  - 职称：副教授
